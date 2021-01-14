@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUESTED_IMAGE_CAPTURE = 0;
     ImageView imageView;
 
-    String folder = "DocumentScanner";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

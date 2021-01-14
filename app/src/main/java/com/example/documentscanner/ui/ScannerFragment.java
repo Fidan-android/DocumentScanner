@@ -27,6 +27,8 @@ public class ScannerFragment extends Fragment {
     private static final int REQUESTED_IMAGE_CAPTURE = 0;
     ImageView imageView;
 
+    String folder = "DocumentScanner";
+
     public ScannerFragment() {
         // Required empty public constructor
     }

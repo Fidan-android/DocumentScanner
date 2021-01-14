@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DocumentScanner</string>
+    <string name="images">Images</string>
+    <string name="scan">Сканировать</string>
+    <string name="docs">Документы</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
